@@ -1,7 +1,7 @@
 # Data
 *.pkl
 *.h5
-.keras
+*.keras
 
 # Ignore IDE-specific files
 .vscode/

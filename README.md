@@ -115,5 +115,5 @@ The model is a Sequential neural network built with TensorFlow and Keras. The ar
 - Training the Model: The preprocessed data is used to train the neural network, and the model is saved for future use.
 
 ## Additional Notes
-- Customizing Responses: You can modify or add more intents to the intents.json file to expand the chatbot's responses. After making changes, you will need to retrain the model.
-- Pickle Files: words.pkl and classes.pkl store the processed vocabulary and intent classes, which allow the chatbot to map user inputs to intents more efficiently.
+- Customizing Responses: You can modify or add more intents to the `intents.json` file to expand the chatbot's responses. After making changes, you will need to retrain the model.
+- Pickle Files: `words.pkl` and `classes.pkl` store the processed vocabulary and intent classes, which allow the chatbot to map user inputs to intents more efficiently.
