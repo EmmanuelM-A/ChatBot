@@ -1,0 +1,112 @@
+{"intents": [
+  {
+    "tag": "greetings",
+    "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+    "responses": ["Hello! How can I assist you today?", "Hi there!", "Hey! What's up?"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["Bye", "Goodbye", "See you", "Later", "Catch you later"],
+    "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+  },
+  {
+    "tag": "thanks",
+    "patterns": ["Thanks", "Thank you", "I appreciate it", "Thanks a lot"],
+    "responses": ["You're welcome!", "No problem!", "Happy to help!"]
+  },
+  {
+    "tag": "how_are_you",
+    "patterns": ["How are you?", "How's it going?", "How have you been?"],
+    "responses": ["I'm doing great, thanks! How about you?", "I'm fine, how can I assist you today?"]
+  },
+  {
+    "tag": "weather",
+    "patterns": ["What's the weather like?", "How's the weather?", "Current weather"],
+    "responses": ["I can't provide live weather updates, but you can check your weather app!"]
+  },
+  {
+    "tag": "sports",
+    "patterns": ["What's the latest sports news?", "Tell me about football", "What's happening in sports?"],
+    "responses": ["I love sports! Which one are you interested in?", "I can talk about sports all day. Which one?"]
+  },
+  {
+    "tag": "news",
+    "patterns": ["What's the latest news?", "Tell me the news", "Any news updates?"],
+    "responses": ["You can find the latest updates online. Anything specific you'd like to know about?"]
+  },
+  {
+    "tag": "events",
+    "patterns": ["Are there any events happening?", "What's the next event?", "Upcoming events"],
+    "responses": ["You can check local event listings. Anything particular you're interested in?"]
+  },
+  {
+    "tag": "hobbies",
+    "patterns": ["What are some good hobbies?", "Tell me about hobbies", "What should I do for fun?"],
+    "responses": ["There are lots of fun hobbies! Reading, gaming, painting – which one do you like?"]
+  },
+  {
+    "tag": "music",
+    "patterns": ["Tell me about music", "What music do you like?", "Recommend some music"],
+    "responses": ["I enjoy all kinds of music! What genre do you prefer?", "Music is amazing, right? What's your favorite kind?"]
+  },
+  {
+    "tag": "books",
+    "patterns": ["What books should I read?", "Recommend a good book", "Tell me about books"],
+    "responses": ["Reading is awesome! Do you like fiction or non-fiction?", "There are so many great books. What's your favorite genre?"]
+  },
+  {
+    "tag": "movies",
+    "patterns": ["What are some good movies?", "Recommend a movie", "Tell me about movies"],
+    "responses": ["Movies are always fun! What type of movies do you like?", "There are some great new releases! What genre do you enjoy?"]
+  },
+  {
+    "tag": "food",
+    "patterns": ["What should I eat?", "Tell me about food", "What's your favorite food?"],
+    "responses": ["Food is life! Are you in the mood for something sweet or savory?", "I love all kinds of food. What's your favorite dish?"]
+  },
+  {
+    "tag": "travel",
+    "patterns": ["Where should I travel?", "Tell me about travel", "Recommend a travel destination"],
+    "responses": ["There are so many amazing places to visit! Do you prefer beaches or mountains?", "Travel is exciting! Where have you been or want to go next?"]
+  },
+  {
+    "tag": "tech",
+    "patterns": ["What's new in tech?", "Tell me about technology", "Any tech news?"],
+    "responses": ["Tech is evolving fast! Anything specific you're interested in?", "I'm a tech enthusiast too! Want to know about AI or gadgets?"]
+  },
+  {
+    "tag": "gaming",
+    "patterns": ["What's the latest game?", "Tell me about games", "What games do you play?"],
+    "responses": ["Gaming is awesome! Do you like action or strategy games?", "There are some cool games out now! What kind of games do you like?"]
+  },
+  {
+    "tag": "exercise",
+    "patterns": ["What exercises should I do?", "Tell me about workouts", "How do I stay fit?"],
+    "responses": ["Exercise is great! Do you prefer cardio or strength training?", "Staying fit is important! What's your workout routine?"]
+  },
+  {
+    "tag": "help",
+    "patterns": ["Can you help me?", "I need help", "Assist me"],
+    "responses": ["Of course! What do you need help with?", "I'm here to assist you! What can I help with?"]
+  },
+  {
+    "tag": "fun_facts",
+    "patterns": ["Tell me a fun fact", "I want to know something interesting", "Any fun facts?"],
+    "responses": ["Did you know honey never spoils? What's your favorite random fact?", "A fun fact for you: Octopuses have three hearts!"]
+  },
+  {
+    "tag": "compliments",
+    "patterns": ["You're awesome", "You're cool", "I like you"],
+    "responses": ["Thank you! You're awesome too!", "I appreciate that! You're cool as well!"]
+  },
+  {
+    "tag": "jokes",
+    "patterns": ["Tell me a joke", "Make me laugh", "Any jokes?"],
+    "responses": ["Why don't skeletons fight each other? They don't have the guts!", "Why was the math book sad? It had too many problems!"]
+  },
+  {
+    "tag": "about_bot",
+    "patterns": ["Who are you?", "What can you do?", "Tell me about yourself"],
+    "responses": ["I'm a chatbot here to assist you with anything you need! How can I help today?", "I'm here to chat and help! What would you like to know?"]
+  }
+]}
